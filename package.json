@@ -1,6 +1,6 @@
 {
   "name": "purifysentence",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Filter sentitive words but still show them in a way people will understand.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
