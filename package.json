@@ -1,0 +1,31 @@
+{
+  "name": "purifysentence",
+  "version": "0.0.1",
+  "description": "Filter sentitive words but still show them in a way people will understand.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeigboemmanuel/purifysentence.git"
+  },
+  "keywords": [
+    "sensitive",
+    "words",
+    "filter",
+    "purify"
+  ],
+  "author": "Emmanuel Ezeigbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezeigboemmanuel/purifysentence/issues"
+  },
+  "homepage": "https://github.com/ezeigboemmanuel/purifysentence#readme",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
